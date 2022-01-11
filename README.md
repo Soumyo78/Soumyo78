@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumyo78
+- 👋 Hi, I’m Soumyo Roy.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Full Stack Development.
 
