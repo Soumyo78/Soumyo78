@@ -11,8 +11,8 @@
 
 ### 🌌 About Me
 
-- 🔭 **Currently Crafting:** High-performance back-ends as a **Ruby on Rails Developer** at Alien Brains.
-- 🧠 **Exploring:** The frontiers of **Agentic AI**, **React Native**, and **Golang**.
+- [cite_start]🔭 **Currently Crafting:** High-performance back-ends as a **Ruby on Rails Developer** at **Alien Brains - Kolkata**[cite: 2, 6].
+- 🧠 **Exploring:** The frontiers of **Agentic AI**, **React Native**, **Golang**, and **Flutter/Dart**.
 - 🐧 **OS Preference:** Power user of **CachyOS** (Linux).
 - 🎥 **Side Quest:** Sharing tech insights on my YouTube channel, **The Glimmer Official**.
 
@@ -39,19 +39,19 @@
     </td>
     <td width="50%">
       <h4>📦 Inventory Management</h4>
-      <p>E-commerce style system with <b>Role-Based Access Control</b> and complex admin dashboards.</p>
+      [cite_start]<p>E-commerce style system with <b>Role-Based Access Control</b> and complex admin dashboards[cite: 36, 37].</p>
       <em>Rails / PostgreSQL</em>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>📅 Bangla Hindu Calendar</h4>
-      <p>A specialized cultural application providing essential data for the Bengali Hindu community.</p>
+      <p>A specialized cultural application providing essential data and assets for the community.</p>
       <em>React Native / Community Assets</em>
     </td>
     <td width="50%">
       <h4>🛍️ Flipkart Clone</h4>
-      <p>A pixel-perfect UI clone featuring hover menus, tooltips, and dynamic carousels.</p>
+      [cite_start]<p>A pixel-perfect UI clone featuring hover menus, tooltips, and dynamic carousels[cite: 24, 25].</p>
       <em>React / CSS Artistry</em>
     </td>
   </tr>
