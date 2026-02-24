@@ -3,8 +3,22 @@
 **Ruby on Rails Specialist • Agentic AI Enthusiast • Content Creator**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyo78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Soumyo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyo78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Soumyo78?tab=followers">
+    <img src="https://img.shields.io/github/followers/Soumyo78?label=Followers&style=for-the-badge&color=1a1b27&logo=github&logoColor=7aa2f7" alt="Followers" />
+  </a>
+  <a href="https://github.com/Soumyo78?tab=repositories">
+    <img src="https://img.shields.io/github/repos/Soumyo78?label=Repositories&style=for-the-badge&color=1a1b27&logo=git&logoColor=bb9af7" alt="Repos" />
+  </a>
+  <a href="https://github.com/Soumyo78">
+    <img src="https://img.shields.io/github/stars/Soumyo78?label=Total%20Stars&style=for-the-badge&color=1a1b27&logo=star&logoColor=e0af68" alt="Stars" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyo78&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyo78&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
